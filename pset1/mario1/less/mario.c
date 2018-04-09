@@ -3,16 +3,16 @@
 
 int main(void)
 {
-    //initialize i
+    //initialize height
     int height;
     //do-while loop always runs at least once
     do
     {
-        //prompt user for an integer
+        //ask the user for an integer
         height = get_int("Height: ");
     }
 
-    //do that for when the integer is (< 0 or > 23) --> "invalid"
+    //andd do that again if the integer is (< 0 or > 23) --> "invalid"
     while (height < 0 || height > 23);
 
      // for loop iterates through ROWS which is the height
