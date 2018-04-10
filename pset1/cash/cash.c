@@ -1,3 +1,6 @@
+//Program works well.
+//Recommendation - please run style50 cash.c and make changes accordingly
+
 #include <stdio.h>
 #include <cs50.h>
 #include <math.h>

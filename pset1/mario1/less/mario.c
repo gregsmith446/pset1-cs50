@@ -1,3 +1,7 @@
+//Program works well.
+//Recommendation - Please run style50 mario.c and make changes.
+//Also can add a comment on what the program is all about.
+
 #include <cs50.h>
 #include <stdio.h>
 

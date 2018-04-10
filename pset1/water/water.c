@@ -1,3 +1,7 @@
+//Program works well.
+//Recommendation - you can run style50 water.c and make changes accordingly.
+//Common practice is usally comments are on top of the line of code.
+
 #include <cs50.h>
 #include <stdio.h>
 
