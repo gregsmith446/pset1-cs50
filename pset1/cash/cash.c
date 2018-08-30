@@ -1,3 +1,7 @@
+// "greedy cashier"
+// a program that takes "change owed" as an input
+// and outputs the smallest amount of coins required to pay that change
+
 #include <stdio.h>
 #include <cs50.h>
 #include <math.h>

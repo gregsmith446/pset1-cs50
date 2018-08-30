@@ -1,3 +1,6 @@
+// program that takes an integer as an input
+// and outputs a pyramid in mario form
+
 #include <cs50.h>
 #include <stdio.h>
 
