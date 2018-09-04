@@ -9,7 +9,7 @@ while True:
     height = get_int("Input integer for height: ")
     # if user input IS in range
     if height >= 0 and height <= 23:
-        print("The height is: ", height)
+        # print("The height is: ", height)
         break
 
 # for each loop iterates through height int
@@ -17,7 +17,7 @@ while True:
 for i in range(height):
     # print spaces * (height - i)
     # print hashtags * (i + 2)
-    print(" " * (height - i) + "#" * (i + 2))
+    print(" " * (height - i - 1) + "#" * (i + 2))
 
 
 
