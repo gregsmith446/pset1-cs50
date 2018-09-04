@@ -15,7 +15,7 @@ int main(void)
         height = get_int("Height: ");
     }
 
-    //andd do that again if the integer is (< 0 or > 23) --> "invalid"
+    //and do that again if the integer is (< 0 or > 23) --> "invalid"
     while (height < 0 || height > 23);
 
      // for loop iterates through ROWS which is the height
