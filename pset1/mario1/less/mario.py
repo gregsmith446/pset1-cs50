@@ -11,11 +11,6 @@ while True:
     if height >= 0 and height <= 23:
         print("The height is: ", height)
         break
-    elif height < 0 and height > 23:
-        # reprompt the user
-        print("Int must be between 0 and 23")
-        height = get_int("Input integer for height: ")
-        break
 
 # for each loop iterates through height int
 # ex/ 4 --> 1, 2, 3, 4
